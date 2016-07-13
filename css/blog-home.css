@@ -1,0 +1,67 @@
+
+.row {
+    border: none;
+    margin: 0px 5px;
+    padding: 20px;
+
+}
+
+a {
+    background-color: transparent;
+    color: lime;
+}
+
+
+a:active,
+a:hover {
+    outline: 0;
+    color: #dddddd;
+    text-decoration: none;
+}
+abbr[title] {
+    border-bottom: 1px dotted;
+}
+
+
+        .nav-img{
+            float: left;
+            padding-top: 0px;
+            margin-top: -10px;
+            margin-right: 10px;
+        }
+
+
+
+p.well-p{
+    line-height: 200%;
+}
+
+.btn-close {
+    background-image: url('http://www.wallpaperup.com/uploads/wallpapers/2012/10/21/20181/cad2441dd3252cf53f12154412286ba0.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    cursor: pointer;
+    display: inline-block;
+    height: 30px;
+    margin-left: 30px;
+    border: 50%;
+    margin-top: 16px;
+    width: 36px;
+}
+.btn-close:hover {
+    transform: rotate(360deg);
+}
+
+.hover-animate {
+    cursor: hand;
+    transition: 0.5s;
+}
+
+
+
+
+.Password_recovery a{
+    color: blue;
+
+}
